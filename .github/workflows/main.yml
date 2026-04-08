@@ -9,9 +9,6 @@ name: 'Update schedule'
 # Many scheduled workflows from forks can cause workflows to be disabled.
 # If scheduled execution is required, use other deployment methods.
 on:
-  schedule:
-    - cron: 59 23 3 * *
-  
   workflow_dispatch:
 
 jobs:
