@@ -5,14 +5,14 @@ CCTV-2 财经
 CCTV-4 中文国际
 
 CCTV-6 电影
-CCTV-7 国防军事
+
 CCTV-8 电视剧
 CCTV-9 纪录
 CCTV-10 科教
-CCTV-11 戏曲
-CCTV-12 社会与法
+
+
 CCTV-13 新闻
-CCTV-14 少儿
+
 CCTV-15 音乐
 
 CCTV-4K
@@ -24,10 +24,7 @@ CCTV-4欧洲
 🌊港澳台,#genre#
 无线新闻
 翡翠台
-华丽翡翠台
-翡翠台北美版
-翡翠剧集台
-黄金翡翠台
+
 TVB Plus
 凤凰卫视
 凤凰香港
