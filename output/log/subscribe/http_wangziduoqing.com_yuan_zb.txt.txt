@@ -576,7 +576,6 @@ CCTV17,http://223.95.198.3:8000/hls/17/index.m3u8
 äºåå«è§,http://223.95.198.3:8000/hls/45/index.m3u8
 éæµ·å«è§,http://223.95.198.3:8000/hls/47/index.m3u8
 æ¸¯æ¾³å°,#genre#
-é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
 TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
 TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
 TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-13 06:34:58,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+2026-04-14 06:43:52,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 
 📺央视频道,#genre#
 CCTV-1 综合,https://cdn13.178.indevs.in/163189/bea1d91d91364062
@@ -121,20 +121,6 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_10
 凤凰资讯,http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-港台电视 31,http://cdn.163189.xyz/163189/rthk31
-港台电视 31,https://cdn.163189.xyz/163189/rthk31
-港台电视 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-港台电视 31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-港台电视 31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
-港台电视 31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-港台电视 31,https://smart.dxjc.pp.ua/smart.php?id=rhk31_twn&token=tmxk
-港台电视 32,http://cdn.163189.xyz/163189/rthk32
-港台电视 32,https://cdn.163189.xyz/163189/rthk32
-港台电视 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-港台电视 32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-港台电视 32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
-港台电视 32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-港台电视 32,https://smart.dxjc.pp.ua/smart.php?id=rhk32_twn&token=tmxk
 天映频道,http://o11.163189.xyz/stream/live/typd/#https://cdn10.163189.xyz/stream/163189/typd/#https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映频道,https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
