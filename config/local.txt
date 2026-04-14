@@ -4,3 +4,8 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
+凤凰香港,http://r.jdshipin.com/NfC0f
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
