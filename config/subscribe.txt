@@ -2,33 +2,33 @@
 # This is a list of subscription sources, with one subscription address per line
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
-# https://gitee.com/hw2837/iptv/raw/master/iptv
-# https://gitee.com/king12985/tv/raw/master/lives/20180818.txt
-# https://gitee.com/RandomCJ/IPTV_Personal/raw/master/output/IPTV_Personal.txt
-# https://gitee.com/sk0yang/tv/raw/master/output/result.txt
-# https://gitee.com/g1753462733/zb/raw/main/itvlist.txt
-# https://gitee.com/q1017673817/fan/raw/iptv/zubo.txt
-# http://www.52top.com.cn:678/downloads/migu.txt
-# https://gitee.com/king12985/tv/raw/master/lives/zhizhu/20180818china.txt
-# https://gitee.com/yu_shan_fei/vvvzhy/raw/zby/yu/yqk3.m3u
-# https://ds65.tv1288.xyz
-# https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
-# https://45678888.xyz/iptv/proxy.php?sub=4d0be2911590a0a83fe915e9e9eb7443
-# https://45678888.xyz/iptv/proxy.php?sub=9eea6609748994bd9ebe3cfffc52215d
-# https://live.45678888.xyz/sub?kbQyhXwA=m3u
-# https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
-# https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
-# https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
-# https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt
-# https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
-# https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
-# https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-# https://gitee.com/xiao-ping2/iptv-api/raw/master/output/xp_result.txt
-# https://gitee.com/myvisual/newzubo/raw/main/IPTV.txt
-# https://gitee.com/myvisual/newzubo/raw/main/IPTV.txt
-# https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
-# https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
-# https://iptv-org.github.io/iptv/countries/hk.m3u
+https://gitee.com/hw2837/iptv/raw/master/iptv
+https://gitee.com/king12985/tv/raw/master/lives/20180818.txt
+https://gitee.com/RandomCJ/IPTV_Personal/raw/master/output/IPTV_Personal.txt
+https://gitee.com/sk0yang/tv/raw/master/output/result.txt
+https://gitee.com/g1753462733/zb/raw/main/itvlist.txt
+https://gitee.com/q1017673817/fan/raw/iptv/zubo.txt
+http://www.52top.com.cn:678/downloads/migu.txt
+https://gitee.com/king12985/tv/raw/master/lives/zhizhu/20180818china.txt
+https://gitee.com/yu_shan_fei/vvvzhy/raw/zby/yu/yqk3.m3u
+https://ds65.tv1288.xyz
+https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
+https://45678888.xyz/iptv/proxy.php?sub=4d0be2911590a0a83fe915e9e9eb7443
+https://45678888.xyz/iptv/proxy.php?sub=9eea6609748994bd9ebe3cfffc52215d
+https://live.45678888.xyz/sub?kbQyhXwA=m3u
+https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
+https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
+https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
+https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt
+https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
+https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://gitee.com/xiao-ping2/iptv-api/raw/master/output/xp_result.txt
+https://gitee.com/myvisual/newzubo/raw/main/IPTV.txt
+https://gitee.com/myvisual/newzubo/raw/main/IPTV.txt
+https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
+https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
+https://iptv-org.github.io/iptv/countries/hk.m3u
 https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
 https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
 https://gitee.com/lwr851/live/raw/master/iptv.m3u
