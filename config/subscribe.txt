@@ -2,8 +2,8 @@
 # This is a list of subscription sources, with one subscription address per line
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
-# https://gitee.com/hzxs800274/iptv/raw/master/live/TV
-# https://d.kstore.dev/download/15366/6988.txt
+https://gitee.com/hzxs800274/iptv/raw/master/live/TV
+https://d.kstore.dev/download/15366/6988.txt
 https://gitee.com/hw2837/iptv/raw/master/iptv
 https://gitee.com/king12985/tv/raw/master/lives/20180818.txt
 https://gitee.com/g1753462733/zb/raw/main/itvlist.txt
