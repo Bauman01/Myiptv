@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Bauman01/Myiptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-04-18 06:39:36
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-04-19 06:35:23
 http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="📺央视频道",CCTV-1 综合
 http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
