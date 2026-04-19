@@ -994,6 +994,7 @@ CCTV17,http://223.95.198.3:8000/hls/17/index.m3u8
 CCTV6ç¯çç»å¸,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
 CCTV6æµéå²æ,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 æ¸¯æ¾³å°,#genre#
+å¤å°æ¾³æ´²,http://as.288856.xyz/xg.php?id=%E5%87%A4%E5%87%B0%E6%BE%B3%E6%B4%B2&tid=1
 å¤å°ä¸­æ,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8 
 å¤å°èµè®¯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
 å¤å°é¦æ¸¯,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
