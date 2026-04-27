@@ -10,7 +10,7 @@ name: 'Update schedule'
 # If scheduled execution is required, use other deployment methods.
 on:
   schedule:
-    - cron: '0 22 * * *'
+    - cron: '0 22 2 * *'
   workflow_dispatch:
 
 jobs:
