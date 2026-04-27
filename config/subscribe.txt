@@ -36,6 +36,7 @@ https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
 https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
 https://gitee.com/lwr851/live/raw/master/iptv.m3u
 https://supprise0901.github.io/TVBox_live/live.txt
+http://iptv.4666888.xyz/FYTV.m3u
 
 https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u
 https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u
