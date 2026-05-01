@@ -1,30 +1,26 @@
 📺央视频道,#genre#
 CCTV-1 综合
 CCTV-2 财经
-
 CCTV-4 中文国际
-
 CCTV-6 电影
 CCTV-8 电视
 CCTV-9 纪录
 CCTV-10 科教
-
 CCTV-13 新闻
-
 CCTV-4K
 CCTV-8K
 
 🌊港澳台,#genre#
-TVB News
+TVBNews
 无线新闻
 翡翠台
 明珠台
 凤凰卫视
 凤凰香港
+凤凰香港台
 凤凰资讯
 TVBJ1
 TVB1
-
 Now新闻台
 港台电台 31
 港台电台 32
@@ -35,7 +31,6 @@ Now新闻台
 HOYTV
 viuTV
 有线新闻
-
 天映频道
 美亚电影台
 
@@ -50,6 +45,4 @@ viuTV
 广州新闻
 
 📡卫视频道,#genre#
-
-
 
